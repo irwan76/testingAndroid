@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cube Dimension</string>
+    <string name="introduction">
+        This program calculate volume of a cube. please give the exact number to
+        the field below
+    </string>
+</resources>
